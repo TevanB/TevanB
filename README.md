@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TevanB, I'm a Senior A.I. Undergrad at the University of Toronto studying Computer Science.
-- 👀 I’m experienced in Cloud Engineering, Artificial Intelligence, Machine Learning, and Full-Stack Development.
-- 🌱 I’m currently learning new techologies in Distributed Data Systems, Parallel Computing, and Deep Learning.
-- 💼 I’m looking for New Grad Software Engineering Roles in May 2023.
+- 👋 Hi, I’m @TevanB, I'm a Senior Undergrad at the University of Toronto studying a Specialist in Computer Science with a Focus in Artificial Intelligence.
+- 👀 I have experience in Cloud Engineering, Artificial Intelligence, Machine Learning, and Full-Stack Development.
+- 🌱 I’m currently learning new techologies in High-Performance Cloud Infrastructure, ML Systems, Distributed Data Systems, and Deep Learning.
+- 💼 I’m looking for New Grad Software Engineering or Research Roles in May 2023.
 - 📫 I can be reached at tevan.bhatia@mail.utoronto.ca.
 
 <!---
